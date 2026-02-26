@@ -124,13 +124,13 @@ Upload a financial PDF and receive an analysis.
 
 ---
 
-### ▶️ GET `/history` (Bonus Feature)
+### ▶️ GET `/history` 
 
 Retrieve past analysis results stored in SQLite.
 
 ---
 
-## 🐞 Bugs Found & Fixes (Core of the Assignment)
+## 🐞 Bugs Found & Fixes 
 
 ### 1️⃣ CrewAI Tool Compatibility Bug
 
@@ -273,7 +273,7 @@ Retrieve past analysis results stored in SQLite.
 
 ---
 
-## 🗄️ Database Integration (Bonus Points)
+## 🗄️ Database Integration 
 
 ### Why Database?
 
@@ -349,7 +349,6 @@ python-dotenv
 ## 🚀 Future Improvements
 
 * Chunk-based summarization (true RAG pipeline)
-* User authentication
 * PostgreSQL integration
 * Async task queue (Celery / Redis)
 * Frontend dashboard
@@ -368,4 +367,3 @@ This project demonstrates:
 > All original issues were resolved **without downgrading CrewAI** respecting project constraints.
 
 ---
-"# AI-Internship-Assignment---Debug-Challenge" 
