@@ -1,5 +1,3 @@
----
-
 # 📄 Financial Document Analyzer – Debug & Enhancement Project
 
 ## 📌 Overview
